@@ -1,2 +1,4 @@
 id,fechaHora,motivo,doctorId,pacienteId
 1,2025-10-02T14:30,Chequeo general,1,1
+2,2026-01-06T08:00,Revision de rutina,1,1
+3,2025-10-10T09:15,Calculos renales,2,2
